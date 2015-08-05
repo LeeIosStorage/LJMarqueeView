@@ -1,0 +1,2 @@
+# LJMarqueeView
+a fine MarqueeView
